@@ -1,4 +1,3 @@
-<img width="764" alt="Screenshot 2025-05-21 at 20 29 33" src="https://github.com/user-attachments/assets/dc770a7e-57b4-49f9-9470-78063a6a6c4a" />
 
 
 # 🚀 Cloud Mart – AI-Driven Multi-Cloud E-Commerce Platform with DevOps Transformation
