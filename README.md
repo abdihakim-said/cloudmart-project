@@ -7,7 +7,7 @@
 <img width="1440" alt="Screenshot 2025-05-24 at 23 56 43" src="https://github.com/user-attachments/assets/8342fc35-cf75-4e2e-9fec-9d6b3611cf9f" />
 
 
-## tools Used:
+## Tools Used:
 <img width="764" alt="Screenshot 2025-05-21 at 20 29 33" src="https://github.com/user-attachments/assets/dc770a7e-57b4-49f9-9470-78063a6a6c4a" />
 
 
