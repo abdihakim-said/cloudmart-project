@@ -120,6 +120,8 @@ We designed and implemented a comprehensive solution combining AWS, Azure, and G
 
 ---
 
+---
+
 ## 🚀 Impact & Outcomes
 
 - 📉 Reduced customer support costs by automating 90% of inquiries with AI chatbots  
@@ -130,6 +132,22 @@ We designed and implemented a comprehensive solution combining AWS, Azure, and G
 
 ---
 
-This project demonstrates how **multi-cloud AI integration** combined with **modern DevOps automation** can build scalable, intelligent, and cost-effective e-commerce platforms competing with giants like Klarna.
+## ⚠️ Challenges Faced & Lessons Learned
 
+- **Multi-cloud complexity:** Integrating AWS, Azure, and Google Cloud services required deep understanding of each platform’s nuances and careful orchestration to maintain security and data flow integrity.  
+- **Legacy system modernization:** Breaking down the monolithic legacy system into microservices involved extensive refactoring, team coordination, and handling unforeseen interdependencies.  
+- **Infrastructure as Code maturity:** Ensuring Terraform code was modular, reusable, and maintainable demanded strict standards and continuous reviews to prevent configuration drift.  
+- **CI/CD pipeline stability:** Achieving reliable automation with rollback and notifications required iterative pipeline tuning and robust testing practices.  
+- **AI integration challenges:** Training and tuning AI models for sentiment analysis and customer support involved continuous experimentation and alignment with business goals.  
+- **Team culture shift:** Driving DevOps adoption and Agile practices was a cultural journey requiring patience, coaching, and leadership buy-in.  
 
+**What I learned:**  
+- The critical importance of modular, cloud-agnostic IaC for scaling modern platforms  
+- How to orchestrate multi-cloud AI services for real business value  
+- Best practices in event-driven architecture leveraging Lambda and DynamoDB Streams  
+- The value of automated CI/CD pipelines in reducing deployment risk and accelerating delivery  
+- Effective communication and agile collaboration are as important as technical excellence in complex projects  
+
+---
+
+This project is a testament to how combining multi-cloud AI, serverless computing, and DevOps automation creates a scalable, intelligent, and cost-efficient e-commerce platform ready to compete with industry giants like Klarna.
