@@ -2,7 +2,7 @@
 
 # 🚀 Cloud Mart – AI-Driven Multi-Cloud E-Commerce Platform with DevOps Transformation
 
-**Cloud Mart** is a cutting-edge, AI-powered e-commerce platform designed to compete with market leaders like **Klarna** by leveraging multi-cloud capabilities and advanced DevOps practices. As a **DevOps Consultant at Luul Solutions**, I led the transformation of Cloud Mart’s legacy system into a scalable, fully automated, and intelligent platform that significantly reduces operational costs and improves customer experience.
+**Cloud Mart** is a cutting-edge, AI-powered e-commerce platform designed to compete with market leaders like **Klarna** by leveraging multi-cloud capabilities and advanced DevOps practices. As a **DevOps Consultant **, I led the transformation of Cloud Mart’s legacy system into a scalable, fully automated, and intelligent platform that significantly reduces operational costs and improves customer experience.
 
 ---
 <img width="764" alt="Screenshot 2025-05-21 at 20 29 33" src="https://github.com/user-attachments/assets/dc770a7e-57b4-49f9-9470-78063a6a6c4a" />
