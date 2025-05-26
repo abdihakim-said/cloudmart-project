@@ -146,7 +146,7 @@ We designed and implemented a comprehensive solution combining AWS, Azure, and G
 - 📈 Continuous feedback loops between development, QA, and operations teams for rapid issue resolution and iterative improvement  
 
 ---
-## the detailed solution 
+## The Detailed Solution 
 
 Our solution is a modern, AI-powered, multi-cloud platform built to deliver smart, scalable customer engagement and streamlined operations.
 
