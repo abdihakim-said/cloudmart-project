@@ -25,14 +25,51 @@ Cloud Mart faced numerous operational hurdles:
 - 👩‍💼 Loss of key engineering talent unable to adapt to cloud-native and AI technologies  
 - 🛠️ Fragmented tooling and siloed development processes causing inefficiencies and bottlenecks  
 - 🤖 Pressure to rapidly innovate and automate workflows to keep pace with competitors like Klarna using AI-driven customer engagement  
-- 🔐 Security gaps and compliance risks due to manual infrastructure management and inconsistent standards  
+- 🔐 Security gaps and compliance risks due to manual infrastructure management and inconsistent standards
+- 👥 **Talent mismatch**: Original team lacked modern skills in cloud, DevOps, and AI
+
 
 Cloud Mart needed a modern, cloud-native, AI-enabled platform that would accelerate deployment, scale reliably, and enhance customer and business insights.
+
 
 ---
 ## Technology Used:
 <img width="764" alt="Screenshot 2025-05-21 at 20 29 33" src="https://github.com/user-attachments/assets/dc770a7e-57b4-49f9-9470-78063a6a6c4a" />
 
+
+---
+
+## 🚀 Technology Stack
+
+| Category                | Tools & Services                                                                 |
+|-------------------------|----------------------------------------------------------------------------------|
+| **Cloud Providers**     | AWS, Azure, Google Cloud                                                         |
+| **Infrastructure as Code** | Terraform (multi-cloud modular design)                                           |
+| **Containers & Orchestration** | Docker, Kubernetes (Amazon EKS), Helm                                           |
+| **CI/CD**               | GitHub Actions, AWS CodeBuild, AWS CodePipeline                                 |
+| **Serverless**          | AWS Lambda, API Gateway                                                          |
+| **Security**            | IAM, Trivy, IRSA                                                                 |
+| **AI/ML**               | Amazon Bedrock, OpenAI API, Azure AI Language (Sentiment Analysis)              |
+| **Data & Analytics**    | DynamoDB, Google BigQuery, CloudWatch                                            |
+| **Collaboration**       | Agile Scrum, Jira, Confluence, Slack                                             |
+
+---
+
+---
+
+## 🧩 My Role: DevOps Engineer / Cloud Consultant
+
+> As a **DevOps Engineer**, I led the infrastructure transformation and DevSecOps implementation.
+
+>  My responsibilities included:
+
+- 🔧 Developing **modular Terraform** code to provision infrastructure on AWS, Azure, and GCP
+- 🐳 Creating **Docker** containers for microservices
+- 🚀 Building **CI/CD pipelines** using GitHub Actions, AWS CodePipeline, and CodeBuild
+- 🛡️ Integrating **security scanning** into the deployment lifecycle (Trivy, IAM)
+- ☁️ Provisioning scalable **Amazon EKS** clusters and **DynamoDB** with Streams
+- ⚙️ Implementing **serverless workflows** using AWS Lambda
+- 📊 Integrating **Azure AI Language** and **Google BigQuery** for sentiment and analytics
 
 ---
 ## 🎯 Solution Overview
@@ -122,9 +159,41 @@ We designed and implemented a comprehensive solution combining AWS, Azure, and G
 
 ---
 
-## 📂 Repository Structure
 
 
+---
+---![CHALLENGE-ARCHITECTURE](https://github.com/user-attachments/assets/03786e9b-de85-4ef9-ac71-f628eee7c2c7)
+
+
+## 🧱 Architecture Highlights
+
+- 🏗️ **Multi-cloud integration**:
+  - **AWS**: Core infrastructure, Lambda, EKS, DynamoDB
+  - **Azure**: AI language sentiment analysis
+  - **GCP**: BigQuery for analytics dashboard
+
+- 🔄 **Microservices with Kubernetes**:
+  - Packaged with Docker, deployed via Helm
+  - Auto-scaled across AZs using Amazon EKS
+
+- ⚙️ **CI/CD Pipelines**:
+  - Source: GitHub
+  - Build: CodeBuild (Docker + Lambda)
+  - Deploy: CodePipeline (ECR → EKS + Lambda)
+  - Monitoring + Slack Alerts
+
+- 🔁 **Serverless Workflows**:
+  - Event-driven Lambda triggered by DynamoDB Streams
+  - Order processing, inventory updates, notifications
+
+- 🤖 **AI Assistants**:
+  - Generative AI chatbots for 90% of support requests
+  - Azure Sentiment Analysis for feedback scoring
+  - Trained with real user data for contextual accuracy
+
+- 📊 **Real-Time Analytics**:
+  - BigQuery + BI dashboards for long-term sales insights
+  - DynamoDB → Lambda → BigQuery ETL pipeline
 
 ---
 
