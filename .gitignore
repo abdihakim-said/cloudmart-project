@@ -1,4 +1,5 @@
 # Sensitive files
+.terraform/
 *.env
 *secret*.yaml
 *secrets*.yaml
