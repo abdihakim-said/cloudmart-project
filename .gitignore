@@ -1,0 +1,9 @@
+# Sensitive files
+*.env
+*secret*.yaml
+*secrets*.yaml
+*.tfvars
+*.tfstate
+*.tfstate.*
+backend/src/lambda/addToBigQuery/google_credentials.json
+backend/src/lambda/addToBigQuery/node_modules/
