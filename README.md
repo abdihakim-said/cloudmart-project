@@ -90,3 +90,6 @@ CloudMart’s transformation delivered measurable improvements across operations
 
 ---
 
+<img width="1440" alt="Screenshot 2025-05-24 at 23 56 26" src="https://github.com/user-attachments/assets/1c5df4bb-8e2b-4581-b0ae-1955f155c3fc" />
+
+
